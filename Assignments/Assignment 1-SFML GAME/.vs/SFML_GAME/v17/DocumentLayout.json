@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignment 1-SFML GAME\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED822609-D717-46C2-A5B2-73FFD6292424}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignment 1-SFML GAME\\ConsoleApplication1\\advan_commrnts.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED822609-D717-46C2-A5B2-73FFD6292424}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\advan_commrnts.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED822609-D717-46C2-A5B2-73FFD6292424}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignment 1-SFML GAME\\ConsoleApplication1\\advanced.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED822609-D717-46C2-A5B2-73FFD6292424}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\advanced.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED822609-D717-46C2-A5B2-73FFD6292424}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignment 1-SFML GAME\\ConsoleApplication1\\circles1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{ED822609-D717-46C2-A5B2-73FFD6292424}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\circles1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED822609-D717-46C2-A5B2-73FFD6292424}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignment 1-SFML GAME\\ConsoleApplication1\\recs.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{ED822609-D717-46C2-A5B2-73FFD6292424}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\recs.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED822609-D717-46C2-A5B2-73FFD6292424}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignment 1-SFML GAME\\ConsoleApplication1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED822609-D717-46C2-A5B2-73FFD6292424}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED822609-D717-46C2-A5B2-73FFD6292424}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignment 1-SFML GAME\\ConsoleApplication1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED822609-D717-46C2-A5B2-73FFD6292424}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "recs.txt",
+              "DocumentMoniker": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignment 1-SFML GAME\\ConsoleApplication1\\recs.txt",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\recs.txt",
+              "ToolTip": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignment 1-SFML GAME\\ConsoleApplication1\\recs.txt",
+              "RelativeToolTip": "ConsoleApplication1\\recs.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-23T17:39:55.208Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "circles1.txt",
+              "DocumentMoniker": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignment 1-SFML GAME\\ConsoleApplication1\\circles1.txt",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\circles1.txt",
+              "ToolTip": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignment 1-SFML GAME\\ConsoleApplication1\\circles1.txt",
+              "RelativeToolTip": "ConsoleApplication1\\circles1.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-23T16:32:49.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignment 1-SFML GAME\\ConsoleApplication1\\Source.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\Source.cpp",
+              "ToolTip": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignment 1-SFML GAME\\ConsoleApplication1\\Source.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-23T13:46:36.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignment 1-SFML GAME\\ConsoleApplication1\\main.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\main.cpp",
+              "ToolTip": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignment 1-SFML GAME\\ConsoleApplication1\\main.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\main.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-23T13:45:37.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "advanced.cpp",
+              "DocumentMoniker": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignment 1-SFML GAME\\ConsoleApplication1\\advanced.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\advanced.cpp",
+              "ToolTip": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignment 1-SFML GAME\\ConsoleApplication1\\advanced.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\advanced.cpp",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAAAM4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-23T15:08:46.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "advan_commrnts.cpp",
+              "DocumentMoniker": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignment 1-SFML GAME\\ConsoleApplication1\\advan_commrnts.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\advan_commrnts.cpp",
+              "ToolTip": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignment 1-SFML GAME\\ConsoleApplication1\\advan_commrnts.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\advan_commrnts.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-24T08:45:15.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

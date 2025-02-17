@@ -1,0 +1,17 @@
+﻿  Components.cpp
+  Entity.cpp
+  EntityManager.cpp
+  Game.cpp
+C:\Users\Amr\Documents\Assignments-Game Programming\Tests Files\Shape War-SFML testing\NEW_SFML\Game.cpp(117,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Amr\Documents\Assignments-Game Programming\Tests Files\Shape War-SFML testing\NEW_SFML\Game.cpp(118,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  vec2.cpp
+  Generating Code...
+  NEW_SFML.vcxproj -> C:\Users\Amr\Documents\Assignments-Game Programming\Tests Files\Shape War-SFML testing\x64\Debug\NEW_SFML.exe

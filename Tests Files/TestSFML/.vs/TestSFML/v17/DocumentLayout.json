@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amr\\Documents\\TestSFML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1CAE619-5E58-4EAB-B373-9ED58E6B280B}|TestSFML\\TestSFML.vcxproj|C:\\Users\\Amr\\Documents\\TestSFML\\TestSFML\\TestSFML.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1CAE619-5E58-4EAB-B373-9ED58E6B280B}|TestSFML\\TestSFML.vcxproj|solutionrelative:TestSFML\\TestSFML.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestSFML.cpp",
+              "DocumentMoniker": "C:\\Users\\Amr\\Documents\\TestSFML\\TestSFML\\TestSFML.cpp",
+              "RelativeDocumentMoniker": "TestSFML\\TestSFML.cpp",
+              "ToolTip": "C:\\Users\\Amr\\Documents\\TestSFML\\TestSFML\\TestSFML.cpp",
+              "RelativeToolTip": "TestSFML\\TestSFML.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-21T13:25:06.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

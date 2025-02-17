@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C343CD0-99B7-4D14-B408-F712D109A8F9}|Assignment 3\\Assignment 3.vcxproj|C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\GameEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C343CD0-99B7-4D14-B408-F712D109A8F9}|Assignment 3\\Assignment 3.vcxproj|solutionrelative:Assignment 3\\GameEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C343CD0-99B7-4D14-B408-F712D109A8F9}|Assignment 3\\Assignment 3.vcxproj|C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\GameEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C343CD0-99B7-4D14-B408-F712D109A8F9}|Assignment 3\\Assignment 3.vcxproj|solutionrelative:Assignment 3\\GameEngine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C343CD0-99B7-4D14-B408-F712D109A8F9}|Assignment 3\\Assignment 3.vcxproj|C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C343CD0-99B7-4D14-B408-F712D109A8F9}|Assignment 3\\Assignment 3.vcxproj|solutionrelative:Assignment 3\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C343CD0-99B7-4D14-B408-F712D109A8F9}|Assignment 3\\Assignment 3.vcxproj|C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C343CD0-99B7-4D14-B408-F712D109A8F9}|Assignment 3\\Assignment 3.vcxproj|solutionrelative:Assignment 3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C343CD0-99B7-4D14-B408-F712D109A8F9}|Assignment 3\\Assignment 3.vcxproj|C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\Animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C343CD0-99B7-4D14-B408-F712D109A8F9}|Assignment 3\\Assignment 3.vcxproj|solutionrelative:Assignment 3\\Animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C343CD0-99B7-4D14-B408-F712D109A8F9}|Assignment 3\\Assignment 3.vcxproj|C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\Assets.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C343CD0-99B7-4D14-B408-F712D109A8F9}|Assignment 3\\Assignment 3.vcxproj|solutionrelative:Assignment 3\\Assets.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C343CD0-99B7-4D14-B408-F712D109A8F9}|Assignment 3\\Assignment 3.vcxproj|C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\Assets.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C343CD0-99B7-4D14-B408-F712D109A8F9}|Assignment 3\\Assignment 3.vcxproj|solutionrelative:Assignment 3\\Assets.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C343CD0-99B7-4D14-B408-F712D109A8F9}|Assignment 3\\Assignment 3.vcxproj|C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\EntityManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C343CD0-99B7-4D14-B408-F712D109A8F9}|Assignment 3\\Assignment 3.vcxproj|solutionrelative:Assignment 3\\EntityManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C343CD0-99B7-4D14-B408-F712D109A8F9}|Assignment 3\\Assignment 3.vcxproj|C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\EntityManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C343CD0-99B7-4D14-B408-F712D109A8F9}|Assignment 3\\Assignment 3.vcxproj|solutionrelative:Assignment 3\\EntityManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C343CD0-99B7-4D14-B408-F712D109A8F9}|Assignment 3\\Assignment 3.vcxproj|C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\vec2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C343CD0-99B7-4D14-B408-F712D109A8F9}|Assignment 3\\Assignment 3.vcxproj|solutionrelative:Assignment 3\\vec2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C343CD0-99B7-4D14-B408-F712D109A8F9}|Assignment 3\\Assignment 3.vcxproj|C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\Animation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C343CD0-99B7-4D14-B408-F712D109A8F9}|Assignment 3\\Assignment 3.vcxproj|solutionrelative:Assignment 3\\Animation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C343CD0-99B7-4D14-B408-F712D109A8F9}|Assignment 3\\Assignment 3.vcxproj|C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\Components.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C343CD0-99B7-4D14-B408-F712D109A8F9}|Assignment 3\\Assignment 3.vcxproj|solutionrelative:Assignment 3\\Components.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C343CD0-99B7-4D14-B408-F712D109A8F9}|Assignment 3\\Assignment 3.vcxproj|C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\vec2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C343CD0-99B7-4D14-B408-F712D109A8F9}|Assignment 3\\Assignment 3.vcxproj|solutionrelative:Assignment 3\\vec2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C343CD0-99B7-4D14-B408-F712D109A8F9}|Assignment 3\\Assignment 3.vcxproj|C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C343CD0-99B7-4D14-B408-F712D109A8F9}|Assignment 3\\Assignment 3.vcxproj|solutionrelative:Assignment 3\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "vec2.cpp",
+              "DocumentMoniker": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\vec2.cpp",
+              "RelativeDocumentMoniker": "Assignment 3\\vec2.cpp",
+              "ToolTip": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\vec2.cpp",
+              "RelativeToolTip": "Assignment 3\\vec2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-28T19:19:47.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "vec2.h",
+              "DocumentMoniker": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\vec2.h",
+              "RelativeDocumentMoniker": "Assignment 3\\vec2.h",
+              "ToolTip": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\vec2.h",
+              "RelativeToolTip": "Assignment 3\\vec2.h",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwBQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-28T19:19:38.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Entity.cpp",
+              "DocumentMoniker": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\Entity.cpp",
+              "RelativeDocumentMoniker": "Assignment 3\\Entity.cpp",
+              "ToolTip": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\Entity.cpp",
+              "RelativeToolTip": "Assignment 3\\Entity.cpp",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T13:48:13.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Entity.h",
+              "DocumentMoniker": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\Entity.h",
+              "RelativeDocumentMoniker": "Assignment 3\\Entity.h",
+              "ToolTip": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\Entity.h",
+              "RelativeToolTip": "Assignment 3\\Entity.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-01T22:14:51.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameEngine.h",
+              "DocumentMoniker": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\GameEngine.h",
+              "RelativeDocumentMoniker": "Assignment 3\\GameEngine.h",
+              "ToolTip": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\GameEngine.h",
+              "RelativeToolTip": "Assignment 3\\GameEngine.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-01T22:15:37.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameEngine.cpp",
+              "DocumentMoniker": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\GameEngine.cpp",
+              "RelativeDocumentMoniker": "Assignment 3\\GameEngine.cpp",
+              "ToolTip": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\GameEngine.cpp",
+              "RelativeToolTip": "Assignment 3\\GameEngine.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T13:36:18.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Components.h",
+              "DocumentMoniker": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\Components.h",
+              "RelativeDocumentMoniker": "Assignment 3\\Components.h",
+              "ToolTip": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\Components.h",
+              "RelativeToolTip": "Assignment 3\\Components.h",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-01T22:14:33.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EntityManager.h",
+              "DocumentMoniker": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\EntityManager.h",
+              "RelativeDocumentMoniker": "Assignment 3\\EntityManager.h",
+              "ToolTip": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\EntityManager.h",
+              "RelativeToolTip": "Assignment 3\\EntityManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-01T22:15:22.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EntityManager.cpp",
+              "DocumentMoniker": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\EntityManager.cpp",
+              "RelativeDocumentMoniker": "Assignment 3\\EntityManager.cpp",
+              "ToolTip": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\EntityManager.cpp",
+              "RelativeToolTip": "Assignment 3\\EntityManager.cpp",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T13:58:01.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Assets.h",
+              "DocumentMoniker": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\Assets.h",
+              "RelativeDocumentMoniker": "Assignment 3\\Assets.h",
+              "ToolTip": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\Assets.h",
+              "RelativeToolTip": "Assignment 3\\Assets.h",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvxMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-01T22:14:08.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Assets.cpp",
+              "DocumentMoniker": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\Assets.cpp",
+              "RelativeDocumentMoniker": "Assignment 3\\Assets.cpp",
+              "ToolTip": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\Assets.cpp",
+              "RelativeToolTip": "Assignment 3\\Assets.cpp",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAAAGYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T20:45:45.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Animation.h",
+              "DocumentMoniker": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\Animation.h",
+              "RelativeDocumentMoniker": "Assignment 3\\Animation.h",
+              "ToolTip": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\Animation.h",
+              "RelativeToolTip": "Assignment 3\\Animation.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-01T22:13:51.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Animation.cpp",
+              "DocumentMoniker": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\Animation.cpp",
+              "RelativeDocumentMoniker": "Assignment 3\\Animation.cpp",
+              "ToolTip": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\Animation.cpp",
+              "RelativeToolTip": "Assignment 3\\Animation.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T21:16:42.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\main.cpp",
+              "RelativeDocumentMoniker": "Assignment 3\\main.cpp",
+              "ToolTip": "C:\\Users\\Amr\\Documents\\Assignments-Game Programming\\Assignments\\Assignment 3-Mario Game\\Assignment 3\\main.cpp",
+              "RelativeToolTip": "Assignment 3\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T21:57:59.192Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
